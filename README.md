@@ -1,6 +1,8 @@
 # vue-touchable
 
-> 仿IOS原生触摸反馈效果
+> 仿IOS原生触摸反馈效果。
+
+[Simple Live Demo](https://graysheeep.github.io/vue-touchable/)
 
 ## 安装
 
