@@ -7,13 +7,13 @@
 
 [Simple Live Demo](https://graysheeep.github.io/vue-touchable/)
 
-## 安装
+## install
 
 ``` bash
 npm install vue-touchable
 ```
 
-## 使用
+## usage
 
 ``` js
 import { TouchableOpacity, TouchableHighlight } from 'vue-touchable'
@@ -24,6 +24,12 @@ import { TouchableOpacity, TouchableHighlight } from 'vue-touchable'
       Click to toggle opacity
     </div>
   </touchable-opacity>
+
+  <touchable-highlight>
+    <div>
+      Click to toggle highlight
+    </div>
+  </touchable-highlight>
 </template>
 ```
 
